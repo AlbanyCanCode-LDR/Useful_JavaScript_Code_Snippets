@@ -1,2 +1,3 @@
 # Useful_JavaScript_Code_Snippets
-Useful JavaScript Code Snippets 
+
+This will serve as a useful set of JavaScript code snippets.
